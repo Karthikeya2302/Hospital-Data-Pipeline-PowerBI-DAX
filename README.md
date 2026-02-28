@@ -356,9 +356,3 @@ Avg Feedback Rating  = AVERAGE(Admission_Table[FeedbackRating])
 5. Use slicers on Page 1 to filter across all pages
 
 ---
-
-## 👤 Author
-
-**Your Name**  
-MS Computer Science — University of Alabama at Birmingham (UAB)  
-[LinkedIn](#) | [GitHub](#) | [Portfolio](#)
