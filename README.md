@@ -342,8 +342,12 @@ Avg Feedback Rating  = AVERAGE(Admission_Table[FeedbackRating])
 ---
 
 ## 📸 Dashboard Screenshots
-
-> *(Add screenshots of each dashboard page here)*
+![Overview](Screenshots/overview.png)
+![Patient Analysis](Screenshots/patient_analysis.png)
+![Doctor Department](Screenshots/doctor_department.png)
+![Billing Revenue](Screenshots/billing_revenue.png)
+![Admission Surgery](Screenshots/admission_surgery.png)
+![Feedback](Screenshots/feedback.png)
 
 ---
 
